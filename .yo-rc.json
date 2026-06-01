@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.16.0",
+    "sdksVersions": {},
+    "version": "1.23.0",
+    "libraryName": "document-manager",
+    "libraryId": "36949045-4cf9-49bb-89f0-e73d10d47074",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "document-manager",
+    "solutionShortDescription": "document-manager description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
